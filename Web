@@ -1,8 +1,0 @@
-<html>
-  <body>
-    <script src="JavaScript.js"></script>
-    <div style="width: 50%;">
-      <button id="Button" type="submit" onclick="Random_Position()">Đố Anh Bắt Được Em</button>
-    </div>
-  </body>
-</html>
